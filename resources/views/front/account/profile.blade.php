@@ -211,7 +211,7 @@
               <input type="file" class="_2xS5eV" accept=".jpg,.jpeg,.png">
               <i class="fa-solid fa-arrow-up-from-bracket"></i>
               <div class="_3Jd4Zu">
-                <div class="_3UgHT6">Upload Image</div>
+                <div class="_3UgHT6">Tải lên hình ảnh</div>
               </div>
             </div>
           </div>
