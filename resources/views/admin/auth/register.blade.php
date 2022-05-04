@@ -39,14 +39,14 @@
 						@error('password')
             <span style="color: red;">{{ $message }}</span>
             @enderror
-						<input type="password" placeholder="Password" name="password" class="form-control" value="{{old('password')}}">
+						<input type="password" placeholder="Mật khẩu" name="password" class="form-control" value="{{old('password')}}">
 						<i class="zmdi zmdi-lock"></i>
 					</div>
           <div class="form-wrapper">
 						@error('confirmPassword')
             <span style="color: red;">{{ $message }}</span>
             @enderror
-						<input type="password" placeholder="Confirm Password" name="confirmPassword" class="form-control" value="{{old('confirmPassword')}}">
+						<input type="password" placeholder="Nhập lại mật khẩu" name="confirmPassword" class="form-control" value="{{old('confirmPassword')}}">
 						<i class="zmdi zmdi-lock"></i>
 					</div>
 					<div class="form-wrapper">
