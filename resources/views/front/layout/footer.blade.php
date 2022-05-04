@@ -8,8 +8,8 @@
           class="footer_nav_container d-flex flex-sm-row flex-column align-items-center justify-content-lg-start justify-content-center text-center">
           <ul class="footer_nav">
             <li><a href="#">Blog</a></li>
-            <li><a href="#">FAQs</a></li>
-            <li><a href="#">Contact us</a></li>
+            <li><a href="#">Câu hỏi thường gặp</a></li>
+            <li><a href="#">Liên hệ chúng tôi</a></li>
           </ul>
         </div>
       </div>
@@ -29,8 +29,8 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="footer_nav_container">
-          <div class="cr">©2022 All Rights Reserverd. Made with <i class="fa fa-heart-o"
-              aria-hidden="true"></i> by <a href="#">LA HERA</a></div>
+          <div class="cr">©2022 Đã đăng ký Bản quyền. Làm với <i class="fa fa-heart-o"
+              aria-hidden="true"></i> bởi <a href="#">LA HERA</a></div>
         </div>
       </div>
     </div>
